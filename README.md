@@ -34,7 +34,7 @@ Evaluate the model using the test dataset and visualize the results (accuracy, c
 
 ### Register Number: 212223230015
 
-python
+python ```
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -167,23 +167,27 @@ with torch.no_grad():
 new_prediction.argmax()
 plt.imshow(test_data[334][0].reshape(28,28))
 plt.show()
+```
 
 
 ### OUTPUT:
+## Training loss per epoch
+![WhatsApp Image 2025-12-02 at 18 54 56_8904e45c](https://github.com/user-attachments/assets/0e2b422d-36a8-414d-908f-3cfe65207f1e)
 
 
 ## Confusion Matrix
-<img width="583" height="304" alt="image" src="https://github.com/user-attachments/assets/83e69e79-81b7-4286-840b-f52abb7ab697" />
+![WhatsApp Image 2025-12-02 at 18 55 42_0b130033](https://github.com/user-attachments/assets/ccfa86fb-3338-4269-b35d-ff4877dc6ba5)
 
 
-## Viaualization Graph
-<img width="968" height="535" alt="image" src="https://github.com/user-attachments/assets/1381e0fb-1b1e-4922-b43c-f43f6f848ded" />
-<img width="909" height="541" alt="image" src="https://github.com/user-attachments/assets/246507a3-e2c2-4bea-b6b8-32c0010c0589" />
+## Classification Report
+![WhatsApp Image 2025-12-02 at 18 56 29_6034e1f3](https://github.com/user-attachments/assets/548f4a08-27e8-4ff5-b6f7-a7e89cc27ad1)
+
 
 
 
 ## New Sample Data Prediction
-<img width="727" height="518" alt="image" src="https://github.com/user-attachments/assets/1f911a5d-1394-4d52-8878-e23839b0313b" />
+![WhatsApp Image 2025-12-02 at 18 55 55_7c7fe2e7](https://github.com/user-attachments/assets/b9dff15a-fe8d-47ae-ac38-e866813c50a9)
+
 
 
 ## RESULT
