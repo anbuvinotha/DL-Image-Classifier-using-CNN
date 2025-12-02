@@ -170,23 +170,30 @@ plt.show()
 ```
 
 
-### OUTPUT:
+## OUTPUT:
+
 ## Training loss per epoch
-![WhatsApp Image 2025-12-02 at 18 54 56_8904e45c](https://github.com/user-attachments/assets/0e2b422d-36a8-414d-908f-3cfe65207f1e)
+<img width="996" height="231" alt="image" src="https://github.com/user-attachments/assets/2eb54709-939a-4892-a798-5adfa5f0413e" />
+
+
+
+
+
 
 
 ## Confusion Matrix
-![WhatsApp Image 2025-12-02 at 18 55 42_0b130033](https://github.com/user-attachments/assets/ccfa86fb-3338-4269-b35d-ff4877dc6ba5)
+
 
 
 ## Classification Report
-![WhatsApp Image 2025-12-02 at 18 56 29_6034e1f3](https://github.com/user-attachments/assets/548f4a08-27e8-4ff5-b6f7-a7e89cc27ad1)
+
 
 
 
 
 ## New Sample Data Prediction
-![WhatsApp Image 2025-12-02 at 18 55 55_7c7fe2e7](https://github.com/user-attachments/assets/b9dff15a-fe8d-47ae-ac38-e866813c50a9)
+
+
 
 
 
